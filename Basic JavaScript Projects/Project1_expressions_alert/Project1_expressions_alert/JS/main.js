@@ -10,7 +10,7 @@ document.write(" His mom said, \"What\'s wrong with you?\"");
 document.write(" My name is Renato Grizelj." + 
 " I am a student at the Tech Academy.")
 
-var B = " Concatenated" + " String "
+var B = " Concatenated" + " Strings "
 document.write(B);
 
 
