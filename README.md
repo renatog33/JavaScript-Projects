@@ -1,2 +1,2 @@
 # Javascript-Projects
-BASIC JAVASCRIPT PROJECTS SUBMISSION
+JavaScript project submissions for the Tech Academy.
