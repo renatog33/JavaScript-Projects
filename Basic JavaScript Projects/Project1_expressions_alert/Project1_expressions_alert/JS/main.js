@@ -1,4 +1,12 @@
-document.write('Hello, world!');
+
+//Begin #2.  Assign string values to two variables and concatenate the variables together.
+var x= "north"
+var y = "west"
+
+document.write(x+y)
+//End #2
+
+document.write(' Hello, world!');
 var A = "This is a string. ";
 document.write(A);
 
