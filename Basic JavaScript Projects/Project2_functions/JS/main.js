@@ -8,3 +8,10 @@ function myFunction () {
     sentence += " a lot from the Tech Academy!";  //A function that uses the += operator
     document.getElementById("Concatenate").innerHTML = sentence;
 }
+
+// function toFah(c) {  //A function that converst celcius to fahrenheit
+  //  return (9/5*c) + 32;
+ // }
+ // document.getElementById("fah").innerHTML = toFah(40); 
+
+
