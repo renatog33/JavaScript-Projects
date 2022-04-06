@@ -28,19 +28,18 @@ function myFunction() {
     " manufactured in " + Erik.Vehicle_Year;
 }
 
-/* function my_Person(first, last, age) {
+function Person(first, last, age) {
     this.Person_first = first;
     this.Person_last = last;
-    this.Person_case = case;  //RESERVED KEYWORD CHALLENGE - breaks functionality - no javascript runs on the html page
+    this.Person_age = age;  //RESERVED KEYWORD CHALLENGE - breaks functionality - change "age" to "case" and witness error messages in the console log
 } 
-
-var Jack = new Person("Jack", "Cross", "Mr.")
-var Emily = new Person("Emily", "Smith", "Miss")
+var Jack = new Person("Jack", "Cross", 40)
+var Emily = new Person("Emily", "Smith", 50)
 function myPerson() {
     document.getElementById("Person").innerHTML = 
     Jack.Person_first + " " + Jack.Person_last +
-    " is a " + Jack.Person_case;
-} */
+    " is a " + Jack.Person_age;
+} 
 
 function count_Function() {
    document.getElementById("Nested_function").innerHTML = Count ();  //4. Write a nested function
