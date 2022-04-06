@@ -28,7 +28,7 @@ function myFunction() {
     " manufactured in " + Erik.Vehicle_Year;
 }
 
-/* function Person(first, last, age) {
+/* function my_Person(first, last, age) {
     this.Person_first = first;
     this.Person_last = last;
     this.Person_case = case;  //RESERVED KEYWORD CHALLENGE - breaks functionality - no javascript runs on the html page
