@@ -27,7 +27,8 @@ function getReceipt() {
     console.log("size text1: "+text1);
     console.log("subtotal: $"+runningTotal+".00");
     //these variables will get passed on to each function
-    getTopping(runningTotal,text1);//toppings include vegetebales and meats
+    getTopping(runningTotal,text1); //toppings include vegertables and meats
+};
 
 function getTopping(runningTotal,text1) {
     var toppingTotal = 0;
